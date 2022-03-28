@@ -1,0 +1,16 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "Adapt project to deploy a demo MovieDB React app with Postgres",
+  "private": true,
+  "scripts": {},
+  "author": "",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "@adpt/cloud": "latest",
+    "@adpt/core": "latest",
+    "@types/node": "^8.10.20",
+    "source-map-support": "^0.5.6",
+    "typescript": "^3.0.3"
+  }
+}

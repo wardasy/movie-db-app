@@ -1,0 +1,9 @@
+{
+    files: [
+        "backend",
+        "deploy",
+        "package.json",
+        "public",
+        "src",
+    ]
+}

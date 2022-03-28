@@ -1,0 +1,12 @@
+*.log
+*.map
+*~
+.DS_Store
+.nyc_output
+\#*
+\.\#*
+.docs-updated
+dist
+generated
+node_modules
+npm-debug.log.*
